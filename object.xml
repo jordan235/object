@@ -31,12 +31,12 @@
                   <block type="oled_setcursor" id="141" inline="true">
                     <value name="STARTX">
                       <block type="math_number" id="142">
-                        <field name="NUM">20</field>
+                        <field name="NUM">10</field>
                       </block>
                     </value>
                     <value name="STARTY">
                       <block type="math_number" id="143">
-                        <field name="NUM">10</field>
+                        <field name="NUM">20</field>
                       </block>
                     </value>
                     <next>
@@ -50,12 +50,12 @@
                           <block type="oled_setcursor" id="144" inline="true">
                             <value name="STARTX">
                               <block type="math_number" id="145">
-                                <field name="NUM">30</field>
+                                <field name="NUM">10</field>
                               </block>
                             </value>
                             <value name="STARTY">
                               <block type="math_number" id="146">
-                                <field name="NUM">10</field>
+                                <field name="NUM">30</field>
                               </block>
                             </value>
                             <next>
@@ -69,12 +69,12 @@
                                   <block type="oled_setcursor" id="138" inline="true">
                                     <value name="STARTX">
                                       <block type="math_number" id="139">
-                                        <field name="NUM">40</field>
+                                        <field name="NUM">10</field>
                                       </block>
                                     </value>
                                     <value name="STARTY">
                                       <block type="math_number" id="140">
-                                        <field name="NUM">10</field>
+                                        <field name="NUM">40</field>
                                       </block>
                                     </value>
                                     <next>
@@ -88,12 +88,12 @@
                                           <block type="oled_setcursor" id="147" inline="true">
                                             <value name="STARTX">
                                               <block type="math_number" id="148">
-                                                <field name="NUM">50</field>
+                                                <field name="NUM">10</field>
                                               </block>
                                             </value>
                                             <value name="STARTY">
                                               <block type="math_number" id="149">
-                                                <field name="NUM">10</field>
+                                                <field name="NUM">50</field>
                                               </block>
                                             </value>
                                             <next>
@@ -107,12 +107,12 @@
                                                   <block type="oled_setcursor" id="150" inline="true">
                                                     <value name="STARTX">
                                                       <block type="math_number" id="151">
-                                                        <field name="NUM">60</field>
+                                                        <field name="NUM">10</field>
                                                       </block>
                                                     </value>
                                                     <value name="STARTY">
                                                       <block type="math_number" id="152">
-                                                        <field name="NUM">10</field>
+                                                        <field name="NUM">60</field>
                                                       </block>
                                                     </value>
                                                   </block>
