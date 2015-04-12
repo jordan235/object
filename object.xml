@@ -54,7 +54,7 @@
                                 <field name="OP">LT</field>
                                 <value name="A">
                                   <block type="sensor_object" id="271">
-                                    <field name="OBJECT">LEFTFRONT</field>
+                                    <field name="OBJECT">RIGHTFRONT</field>
                                   </block>
                                 </value>
                                 <value name="B">
@@ -73,7 +73,7 @@
                                   </block>
                                 </value>
                                 <next>
-                                  <block type="movement_right" id="610"></block>
+                                  <block type="movement_left" id="623"></block>
                                 </next>
                               </block>
                             </statement>
@@ -82,7 +82,7 @@
                                 <field name="OP">LT</field>
                                 <value name="A">
                                   <block type="sensor_object" id="547">
-                                    <field name="OBJECT">RIGHTFRONT</field>
+                                    <field name="OBJECT">LEFTFRONT</field>
                                   </block>
                                 </value>
                                 <value name="B">
@@ -101,7 +101,7 @@
                                   </block>
                                 </value>
                                 <next>
-                                  <block type="movement_left" id="623"></block>
+                                  <block type="movement_right" id="610"></block>
                                 </next>
                               </block>
                             </statement>
