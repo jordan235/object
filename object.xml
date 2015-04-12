@@ -53,13 +53,13 @@
                               <block type="logic_compare" id="15" inline="true">
                                 <field name="OP">GT</field>
                                 <value name="A">
-                                  <block type="sensor_light" id="16">
-                                    <field name="LIGHT">LEFT</field>
+                                  <block type="sensor_light" id="22">
+                                    <field name="LIGHT">RIGHT</field>
                                   </block>
                                 </value>
                                 <value name="B">
                                   <block type="math_number" id="17">
-                                    <field name="NUM">50</field>
+                                    <field name="NUM">10</field>
                                   </block>
                                 </value>
                               </block>
@@ -81,13 +81,13 @@
                               <block type="logic_compare" id="21" inline="true">
                                 <field name="OP">GT</field>
                                 <value name="A">
-                                  <block type="sensor_light" id="22">
-                                    <field name="LIGHT">RIGHT</field>
+                                  <block type="sensor_light" id="16">
+                                    <field name="LIGHT">LEFT</field>
                                   </block>
                                 </value>
                                 <value name="B">
                                   <block type="math_number" id="23">
-                                    <field name="NUM">50</field>
+                                    <field name="NUM">10</field>
                                   </block>
                                 </value>
                               </block>
